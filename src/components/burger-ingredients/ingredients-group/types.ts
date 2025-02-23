@@ -1,6 +1,6 @@
-import { Ingredient } from "@utils/types";
+import { Ingredient } from '@utils/types';
 
 export type IngredientsGroupProps = {
-    groupName: string;
-    ingredients: Ingredient[];
+	groupName: string;
+	ingredients: Ingredient[];
 };
